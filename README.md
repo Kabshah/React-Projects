@@ -2,8 +2,6 @@
 
 Welcome to my repository! This contains my web development projects that I have worked on. Each project showcases different concepts and technologies that I have learned along the way. Below you'll find links to each project, as well as a brief description of what each one does.
 
-## Projects
-
 ### 1. [Reads Rack](https://reads-rack.netlify.app/)
 A web application that allows users to explore and keep track of their books. You can search for books, categorize them, and manage your reading list.
 
